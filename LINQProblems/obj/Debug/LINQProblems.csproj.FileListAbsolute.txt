@@ -1,0 +1,7 @@
+C:\Users\jbowl\Desktop\All Projects [dCC]\_LINQ_Problems\LINQProblems\LINQProblems\bin\Debug\LINQProblems.exe.config
+C:\Users\jbowl\Desktop\All Projects [dCC]\_LINQ_Problems\LINQProblems\LINQProblems\bin\Debug\LINQProblems.exe
+C:\Users\jbowl\Desktop\All Projects [dCC]\_LINQ_Problems\LINQProblems\LINQProblems\bin\Debug\LINQProblems.pdb
+C:\Users\jbowl\Desktop\All Projects [dCC]\_LINQ_Problems\LINQProblems\LINQProblems\obj\Debug\LINQProblems.csprojAssemblyReference.cache
+C:\Users\jbowl\Desktop\All Projects [dCC]\_LINQ_Problems\LINQProblems\LINQProblems\obj\Debug\LINQProblems.csproj.CoreCompileInputs.cache
+C:\Users\jbowl\Desktop\All Projects [dCC]\_LINQ_Problems\LINQProblems\LINQProblems\obj\Debug\LINQProblems.exe
+C:\Users\jbowl\Desktop\All Projects [dCC]\_LINQ_Problems\LINQProblems\LINQProblems\obj\Debug\LINQProblems.pdb
